@@ -1,9 +1,9 @@
 export default function Home() {
   return (
-    <main className="flex items-center justify-center bg-gray-300 w-screen h-screen">
+    <main className="flex items-center justify-center bg-green-400 w-screen h-screen">
       <section className="bg-white rounded-xl shadow-lg p-6 w-80">
 
-        <header className="flex justify-between text-gray-500">
+        <header className="flex justify-between rounded-xl text-gray-500">
           <h1>Tue Feb 18 2025</h1>
           <h1>9:31:25 p.m.</h1>
         </header>
